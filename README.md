@@ -7,4 +7,4 @@ Uses GitHub API for data and Devicons for programming icons.
 
 Hit the ⭐ button if you found this useful.
 
-Credits: [Abhishek](https://github.com/2kabhishek/)
+
